@@ -1,0 +1,9 @@
+- criar cadastro de imovel com endereco e cidade (funcionario-loja)
+-criar base de dados de equipamentos eletricos tradicionais em uma casa,
+ com categoria e potencia em wats (usuario)
+-criar def para usuario selecionar os equipamentos existentes na residencia
+ com quantidade e tempo medio de uso diario (usuario)
+-calcular o consumo médio mensal estimado de cada equipamento, considerando
+sua potência, quantidade e período de utilização.(funcionario-loja)
+-consumo total médio mensal estimado do imóvel, em kWh/mês, obtido pela soma
+do consumo de todos os equipamentos cadastrados.(usuario)
