@@ -7,3 +7,5 @@
 sua potência, quantidade e período de utilização.(funcionario-loja)
 -consumo total médio mensal estimado do imóvel, em kWh/mês, obtido pela soma
 do consumo de todos os equipamentos cadastrados.(usuario)
+
+Trello:https://trello.com/invite/b/6aa73c36dd1946d4015d50df/ATTIf711de11c96264650cf859d96e0fc83f6B4BF3E6/dre-solucoes
