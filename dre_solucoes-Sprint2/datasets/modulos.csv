@@ -1,0 +1,11 @@
+id,fabricante,modelo,potencia_wp,tensao_voc_v,tensao_vmp_v,corrente_isc_a,corrente_imp_a,eficiencia_pct,largura_mm,altura_mm,preco_brl,fornecedor,data_coleta,link_fonte
+1,OSDA,ODA560-36V-MH,560,50.47,41.77,14.15,13.41,21.68,1134,2278,596.00,Buyers Energy,2026-10-05,https://www.buyersenergy.com.br/modulo-fotovoltaico/
+2,RENEPV,ZY570M10NHB-144,570,51.48,43.34,13.68,13.15,22.10,1134,2278,599.00,Buyers Energy,2026-10-05,https://www.buyersenergy.com.br/modulo-fotovoltaico/
+3,SolarNPlus,SP-N16/144HG-570W,570,52.20,44.75,13.47,12.74,22.10,1134,2278,599.00,Buyers Energy,2026-10-05,https://www.buyersenergy.com.br/modulo-fotovoltaico/
+4,Astronergy,CHSM72M-HC 550Wp,550,50.10,42.10,13.90,13.06,21.30,1134,2278,634.00,Buyers Energy,2026-10-05,https://www.buyersenergy.com.br/modulo-fotovoltaico/
+5,Astronergy,CHSM72M-HC 555Wp,555,50.30,42.27,13.98,13.13,21.50,1134,2278,634.00,Buyers Energy,2026-10-05,https://www.buyersenergy.com.br/modulo-fotovoltaico/
+6,JA Solar,JAM72S30-550/MR,550,49.90,41.96,14.00,13.11,21.30,1134,2278,634.00,Buyers Energy,2026-10-05,https://www.buyersenergy.com.br/modulo-fotovoltaico/
+7,Trina Solar,TSM-555DE18,555,50.00,41.90,14.07,13.25,21.50,1134,2278,634.00,Buyers Energy,2026-10-05,https://www.buyersenergy.com.br/modulo-fotovoltaico/
+8,Trina Solar,TSM-NE19R 605Wp,605,48.70,40.50,15.83,14.94,22.40,1134,2382,652.00,Buyers Energy,2026-10-05,https://www.buyersenergy.com.br/modulo-fotovoltaico/
+9,Jinko Solar,JKM550M-72HL4,550,49.62,40.90,14.03,13.45,21.33,1134,2274,667.00,Buyers Energy,2026-10-05,https://www.buyersenergy.com.br/modulo-fotovoltaico/
+10,OSDA,ODA550-36-MH,550,50.10,42.10,14.01,13.06,21.30,1134,2279,869.99,Pichau,2026-10-05,https://www.pichau.com.br/painel-solar-fotovoltaico-osda-550w-2279x1134x35mm-oda550-36-mh

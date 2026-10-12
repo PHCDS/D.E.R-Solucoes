@@ -1,0 +1,7 @@
+id,fabricante,modelo,tecnologia,tensao_nominal_v,capacidade_ah,capacidade_kwh,dod_pct,eficiencia_pct,ciclos,preco_brl,fornecedor,data_coleta,link_fonte
+1,Freedom,DF2000,chumbo-acido estacionaria,12,105,,20,,1500,929.00,Minha Casa Solar,2026-10-05,https://www.minhacasasolar.com.br/bateria-estacionaria-105ah-freedom-df2000-84553
+2,Freedom,DF4001,chumbo-acido estacionaria,12,225,,30,,1500,1799.00,Minha Casa Solar,2026-10-05,https://www.minhacasasolar.com.br/bateria-estacionaria-220ah-freedom-df4001-84554
+3,Moura,48MLS100,litio LiFePO4,48,100,4.8,80,95,6000,5889.68,Minha Casa Solar,2026-10-05,https://www.minhacasasolar.com.br/bateria-solar-de-litio-100ah-4-8kw-moura-48mls100-81637
+4,Unipower,UPLFP48INWALL,litio LiFePO4,48,100,4.8,80,95,6000,6062.90,Minha Casa Solar,2026-10-05,https://www.minhacasasolar.com.br/bateria-solar-de-litio-100ah-5kw-48v-com-display-unipower-uplfp48inwall-83135
+5,Deye,SE-F5,litio LiFePO4,51.2,100,5.12,80,,6000,5899.00,Minha Casa Solar,2026-10-05,https://www.minhacasasolar.com.br/bateria-solar-de-litio-100ah-6000-ciclos-5-12kw-deye-se-f5-83455
+6,Dyness,DLC5.0C,litio LiFePO4,51.2,100,5.12,90,95,6000,6989.15,Meu Gerador,2026-10-05,https://www.meugerador.com.br/products/bateria-solar-de-litio-dyness-5-12kwh-51-2v-100ah-lifepo4-dlc5-0c-6000-ciclos

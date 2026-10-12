@@ -1,0 +1,10 @@
+id,fabricante,modelo,potencia_nominal_w,potencia_max_fv_w,tensao_max_entrada_v,mppt_min_v,mppt_max_v,qtd_mppt,tensao_saida_v,eficiencia_pct,aceita_bateria,preco_brl,fornecedor,data_coleta,link_fonte
+1,Growatt,MIN 3000TL-X,3000,4200,500,80,500,2,220,98.2,nao,2999.00,Minha Casa Solar,2026-10-05,https://download.aldo.com.br/pdfprodutos/Produto68202IdArquivo26063.pdf
+2,Solis,S6-GR1P3K-M,3000,5100,550,80,500,1,220,97.1,nao,3009.68,Minha Casa Solar,2026-10-05,https://solisinverters.com/uploads/file/Solis_datasheet_S6-GR1P(2-3)K-M_BRA_V2%2C4_202411.pdf
+3,Growatt,MIN 5000TL-X,5000,7000,550,80,550,2,220,98.4,nao,4901.81,Magazine Luiza,2026-10-05,https://download.aldo.com.br/pdfprodutos/Produto68202IdArquivo26063.pdf
+4,Huawei,SUN2000-5KTL-L1,5500,7500,600,90,560,2,220,98.4,nao,6999.00,Minha Casa Solar,2026-10-05,https://www.minhacasasolar.com.br/inversor-solar-monofasico-5kw-220v-2mppt-huawei-sun2000-5ktl-l1-83698
+5,Growatt,MIN 10000TL-X,10000,15000,600,60,550,3,220,98.1,nao,5699.00,Minha Casa Solar,2026-10-05,https://download.aldo.com.br/pdfprodutos/Produto97058IdArquivo26550.pdf
+6,Solis,S5-GR1P10K,10000,17000,600,100,500,3,220,98.0,nao,7428.64,Minha Casa Solar,2026-10-05,https://solisinverters.com/uploads/file/Solis_datasheet_S5-GR1P%287-10%29K_BRA_V1%2C5_202406.pdf
+7,Deye,SUN-5K-SG01LP1-US,5000,6500,500,150,425,2,220,97.6,sim,17199.00,Minha Casa Solar,2026-10-05,https://www.minhacasasolar.com.br/inversor-hibrido-5kw-127-220v-bifasico-2mppt-deye-sun-5k-sg01lp1-us-82264
+8,Livoltek,Hyper 5000,5000,7500,600,125,550,2,220,97.6,sim,8999.00,Minha Casa Solar,2026-10-05,https://www.minhacasasolar.com.br/inversor-solar-hibrido-5kw-220v-monofasico-2mppt-com-wifi-livoltek-hyper-5000-83559
+9,Deye,SUN-10K-SG05LP2-US-SM3,10000,16000,500,150,425,2,220,97.6,sim,17999.00,Minha Casa Solar,2026-10-05,https://pt.deyeinverter.com/deyeinverter/2026/07/30/BDatasheetSUN-5-12K-SG05LP2-US-SM220260729pt.pdf
